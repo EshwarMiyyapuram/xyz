@@ -13,7 +13,7 @@ from datetime import datetime, date
 # PAGE CONFIG
 # ─────────────────────────────────────────────
 st.set_page_config(
-    page_title="MedTrack Pro · Health Dashboard",
+    page_title="Siri Pro · Health Dashboard",
     page_icon="💊",
     layout="wide",
     initial_sidebar_state="expanded",
